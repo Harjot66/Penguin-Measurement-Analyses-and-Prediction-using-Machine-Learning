@@ -1,4 +1,4 @@
-# Penguin-Measurement-Analyses-and-Prediction-using-Machine-Learning
+# Penguin Measurement Analyses and Prediction using Machine Learning
 
 ### Introduction
 
